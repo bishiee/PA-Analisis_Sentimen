@@ -1,0 +1,14 @@
+python-dotenv
+whitenoise
+gunicorn
+Cython
+matplotlib
+pandas
+numpy
+flask
+sklearn
+Sastrawi
+nlp-id
+emoji
+seaborn
+nltk
